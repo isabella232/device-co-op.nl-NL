@@ -1,19 +1,19 @@
 ---
-description: De gegevens van de Grafiek van het apparaat zijn beschikbaar in de Verbinding van het Profiel als optie van de fusieregel. Een fusieregel laat u het type van het gebruik van de Manager van het Toezicht van gegevens voor segmentatie controleren.
-seo-description: De gegevens van de Grafiek van het apparaat zijn beschikbaar in de Verbinding van het Profiel als optie van de fusieregel. Een fusieregel laat u het type van het gebruik van de Manager van het Toezicht van gegevens voor segmentatie controleren.
-seo-title: Publiek Manager - Profielkoppeling
-title: Publiek Manager - Profielkoppeling
+description: Gegevens van de Grafiek van het apparaat zijn beschikbaar in de Verbinding van het Profiel als optie van de fusieregel. Met een samenvoegregel kunt u het type gegevens bepalen dat Audience Manager gebruikt voor segmentatie.
+seo-description: Gegevens van de Grafiek van het apparaat zijn beschikbaar in de Verbinding van het Profiel als optie van de fusieregel. Met een samenvoegregel kunt u het type gegevens bepalen dat Audience Manager gebruikt voor segmentatie.
+seo-title: Auditiebeheer - Profielkoppeling
+title: Auditiebeheer - Profielkoppeling
 uuid: cebf40e5-9f0c-4e59-b4a7-73696fa2dadc
 translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
 
 ---
 
 
-# Publiek Manager - Profielkoppeling{#audience-manager-profile-link}
+# Auditiebeheer - Profielkoppeling{#audience-manager-profile-link}
 
-De gegevens van de Grafiek van het apparaat zijn beschikbaar in de Verbinding van het Profiel als optie van de fusieregel. Een fusieregel laat u het type van het gebruik van de Manager van het Toezicht van gegevens voor segmentatie controleren.
+Gegevens van de Grafiek van het apparaat zijn beschikbaar in de Verbinding van het Profiel als optie van de fusieregel. Met een samenvoegregel kunt u het type gegevens bepalen dat Audience Manager gebruikt voor segmentatie.
 
-De Verbinding van het profiel werkt met dwars-apparatengegevensbronnen om eigenschappen voor voor authentiek verklaarde plaatsbezoekers te identificeren en te verzamelen. Het omvat de eigenschap van de Regels van de Fusie van het Profiel. Met de Regels van de Fusie van het Profiel krijgt u controle over de gegevensreeksen die voor segmentatie worden gebruikt en kan een persoon nauwkeurig over veelvoudige apparaten richten.
+De Verbinding van het profiel werkt met dwars-apparatengegevensbronnen om eigenschappen voor voor authentiek verklaarde plaatsbezoekers te identificeren en te verzamelen. De klasse bevat de functie Regels voor het samenvoegen van profielen. Met de Regels van de Fusie van het Profiel krijgt u controle over de gegevensreeksen die voor segmentatie worden gebruikt en kan een persoon nauwkeurig over veelvoudige apparaten richten.
 
-Zie de documentatie [van de Verbinding van het](https://marketing.adobe.com/resources/help/en_US/aam/profile-link-intro.html) Profiel voor meer informatie.
+Zie de documentatie [van de Verbinding van het](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) Profiel voor meer informatie.
