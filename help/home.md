@@ -1,16 +1,19 @@
 ---
 description: 'null'
 seo-description: 'null'
-seo-title: Adobe Experience Cloud Device Co-op Documentatie
-title: Adobe Experience Cloud Device Co-op Documentatie
+seo-title: Adobe Experience Cloud Device Co-op Documentation
+title: Adobe Experience Cloud Device Co-op Documentation
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
 translation-type: tm+mt
 source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+workflow-type: tm+mt
+source-wordcount: '148'
+ht-degree: 39%
 
 ---
 
 
-# Adobe Experience Cloud Device Co-op Documentatie{#adobe-experience-cloud-device-co-op-documentation}
+# Adobe Experience Cloud Device Co-op Documentation{#adobe-experience-cloud-device-co-op-documentation}
 
 Het [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is een digitale coöperatie waar deelnemende klanten koppelingsinformatie over apparaten delen. Deze gegevens worden [!DNL Experience Cloud] [!DNL Device Co-op] verwerkt tot apparaatclusters. Deze clusters vertegenwoordigen een groep apparaten die door een onbekende persoon worden gebruikt. De [!DNL Device Co-op] leden delen deze clusters, waardoor ze hun klanten waardevolle en consistente ervaringen op verschillende apparaten kunnen bieden.
 
@@ -19,7 +22,7 @@ Het [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is een digitale coöperati
 <table id="table_5E612F746A704FE095B809A013EE977F" class="simpletable"> 
  <tbody> 
   <tr> 
-   <td colname="col1"> <p> <b>Nieuwe en aanbevolen objecten</b> </p> 
+   <td colname="col1"> <p> <b>Nieuwe en aanbevolen items</b> </p> 
     <ul id="ul_47C012F6AB3E4B73BA357027F4D15369"> 
      <li id="li_30DBD4F8A9FA4FEFA3E3E5903FC55887"><a href="about/overview.md#concept-de34e3bacae94869909e979f24bcc4e8" format="dita" scope="local"> Overzicht</a> </li> 
      <li id="li_10D0D3D338FF445098EE18B322951FAF"><a href="about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43" format="dita" scope="local"> Lidmaatschapseisen</a> </li> 
@@ -27,13 +30,13 @@ Het [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is een digitale coöperati
     </ul> </td> 
    <td colname="col2"> <p> <b>Release-opmerkingen</b> </p> 
     <ul id="ul_713F3E9DF0F84FE5981AC63D05948864"> 
-     <li id="li_09C1CD15823E4AD7856CE40BE848E03F">Raadpleeg de nieuwste <a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html" format="https" scope="external"> Experience Cloud Release Notes</a> voor nieuwe functies en oplossingen. </li> 
-     <li id="li_EA594E939ED14D7780178DEA8E1AED64">Zie de koppelingen naar <a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html" format="https" scope="external"></a> opmerkingen bij vorige releases voor oudere aankondigingen. </li> 
+     <li id="li_09C1CD15823E4AD7856CE40BE848E03F">Zie de nieuwste <a href="https://docs.adobe.com/content/help/nl-NL/release-notes/experience-cloud/current.html" format="https" scope="external"> Experience Cloud-releaseopmerkingen</a> voor nieuwe functies en oplossingen. </li> 
+     <li id="li_EA594E939ED14D7780178DEA8E1AED64">See the <a href="https://docs.adobe.com/content/help/nl-NL/release-notes/experience-cloud/current.html" format="https" scope="external"> previous release notes links</a> for older announcements. </li> 
     </ul> <p> <b>Experience Cloud-bronnen</b> </p> 
     <ul id="ul_E30EC96BDC624B5591F0470D430B7F41"> 
      <li id="li_F3A5CCFAE0F247CEB41A03CA8E03106B"> <a href="http://www.adobe.com/marketing-cloud.html" scope="external" format="http"> Adobe Experience Cloud</a> </li> 
-     <li id="li_1938F7044F544481A6CC0F45CC22B80A"> <a href="http://helpx.adobe.com/learning.html?promoid=KAUDK" scope="external" format="http"> Adobe Training en zelfstudies</a> </li> 
-     <li id="li_C71459E0D1464C05B8B9387C43541F17"> <a href="https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html" scope="external" format="https"> Introductiepagina van productdocumentatie</a> </li> 
+     <li id="li_1938F7044F544481A6CC0F45CC22B80A"> <a href="http://helpx.adobe.com/learning.html?promoid=KAUDK" scope="external" format="http"> Adobe Training en Tutorials</a> </li> 
+     <li id="li_C71459E0D1464C05B8B9387C43541F17"> <a href="https://docs.adobe.com/content/help/en/experience-cloud/user-guides/home.html" scope="external" format="https"> Startpagina Productdocumentatie</a> </li> 
     </ul> </td> 
   </tr> 
  </tbody> 
