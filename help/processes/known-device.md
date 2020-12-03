@@ -1,77 +1,80 @@
 ---
-description: Ongeveer bekende apparaten in de Grafiek van het Apparaat.
-seo-description: Ongeveer bekende apparaten in de Grafiek van het Apparaat.
+description: Informatie over bekende apparaten in de grafiek van het Apparaat.
+seo-description: Informatie over bekende apparaten in de grafiek van het Apparaat.
 seo-title: Bekende apparaten
 title: Bekende apparaten
 uuid: 53c21105-45b1-4bed-a473-d3ccc4bae965
 translation-type: tm+mt
 source-git-commit: 4f972a4ae3f0c5ee11b21876bd8a6966cad90371
+workflow-type: tm+mt
+source-wordcount: '571'
+ht-degree: 1%
 
 ---
 
 
 # Bekende apparaten{#known-devices}
 
-Ongeveer bekende apparaten in de Grafiek van het Apparaat.
+Informatie over bekende apparaten in de grafiek van het Apparaat.
 
-In de Grafiek van het Apparaat, hebben wij het concept van een *`known device`*. Een bekend apparaat is een apparaat dat de klant gebruikt om met uw merk in wisselwerking te staan.
+In de Grafiek van het Apparaat, hebben wij het concept van een *`known device`*. Een bekend apparaat is een apparaat dat een klant gebruikt om te communiceren met uw merk.
 
 >[!NOTE]
 >
->In [!DNL Adobe Experience Cloud Device Co-op]termen als *`device`*, *`person`*, *`identity`* enz. specifieke betekenissen hebben. Bijvoorbeeld, kan het &quot;apparaat&quot;naar fysieke hardware zoals een telefoon of een tablet en de toepassingen verwijzen die op die hardware lopen. Zie de [verklarende woordenlijst](../glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c) voor definities.
+>In de [!DNL Adobe Experience Cloud Device Co-op]termen zoals *`device`*, *`person`*, *`identity`* enz. specifieke betekenissen hebben. Bijvoorbeeld, &quot;apparaat&quot;kan naar fysieke hardware zoals een telefoon of een tablet en de toepassingen verwijzen die op die hardware lopen. Zie de [verklarende woordenlijst](../glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c) voor definities.
 
-## Het steunen van doelstellingen met het bekende apparaat {#section-80deae33660e4280ac65c659ceff5601}
+## Ondersteunende doelstellingen met het bekende apparaat {#section-80deae33660e4280ac65c659ceff5601}
 
-Het bekende apparatenconcept steunt een paar doelstellingen essentieel voor de verwezenlijking en het onderhoud van een effectief [!DNL Device Co-op] programma. Een bekend apparaat is een apparaat waarvan een [!DNL Device Co-op] lid op de hoogte is van enige interactie met een consument (bijvoorbeeld een bezoek ter plaatse of door een mobiele app te gebruiken). Gebaseerd op deze acties, [!DNL Device Graph] verbindt de bekende apparaten van een [!DNL Device Co-op] lid met apparaten die door andere [!DNL Device Co-op] leden worden bijgedragen. Deze verbindingen kunnen [deterministisch of probabilistisch](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)zijn. Dit komt de [!DNL Device Co-op] leden ten goede omdat zij ontvangen:
+Het bekende apparaatconcept ondersteunt een aantal doelen die essentieel zijn voor het maken en onderhouden van een effectief [!DNL Device Co-op] programma. Een bekend apparaat is een apparaat dat een [!DNL Device Co-op] lid kent van enige interactie met een consument (bijvoorbeeld een bezoek aan een site of het gebruik van een mobiele app). Gebaseerd op deze acties, [!DNL Device Graph] verbindt de bekende apparaten van een [!DNL Device Co-op] lid aan apparaten die door andere [!DNL Device Co-op] leden worden bijgedragen. Deze banden kunnen [deterministisch of probabilistisch](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)zijn. Dit komt de [!DNL Device Co-op] leden ten goede omdat zij:
 
 * Meer gegevens over hun bekende apparaten.
-* Nieuwe informatie over andere, verbonden apparaten.
+* Nieuwe informatie over andere, gekoppelde apparaten.
 
 ![](assets/known-device.png)
 
-De [!DNL Device Graph] zal geen informatie over apparaat-clusters verstrekken die een Co-op lid van het Apparaat niet heeft gezien.
+De [!DNL Device Graph] gegevens over apparaatclusters die een Device Co-op-lid niet heeft gezien, worden niet door de producent verstrekt.
 
-## Doelstellingen van apparaat-Co-op {#section-75aea5a102d54733aae2a7c6ee9ec6c7}
+## Coopdoelstellingen voor apparaten {#section-75aea5a102d54733aae2a7c6ee9ec6c7}
 
-Drie belangrijke doelstellingen drijven de [!DNL Device Co-op]. Deze omvatten:
+De [!DNL Device Co-op]situatie wordt gedwarsboomd door drie hoofddoelen. Deze omvatten:
 
-* **Schaal:** Deel het maximumaantal mogelijke verbindingen over een verscheidenheid van gebruiksgevallen.
-* **Eerlijkheid:** Ervoor zorgen dat elk lid van de [!DNL Device Co-op] uitkeringen evenredig is met zijn bijdragen.
+* **Schalen:** Deel het maximum aantal mogelijke koppelingen in verschillende gebruiksgevallen.
+* **Waardigheid:** Ervoor zorgen dat elk lid van de [!DNL Device Co-op] uitkeringen in verhouding staat tot zijn bijdragen.
 
-* **Consumentenvertrouwen:** Het vertrouwen van de consument handhaven en opbouwen door ervoor te zorgen dat de ervaring van de consument met een apparaat merken impliceert die hij al kent en vertrouwt.
+* **Consumentenvertrouwen:** Handhaaf en vergroot het vertrouwen van de consument door ervoor te zorgen dat de ervaring van de consument op alle apparaten betrekking heeft op merken die hij al kent en vertrouwt.
 
-## Schaal en het bekende apparaat {#section-67f734109762457ca62ec306284ea082}
+## Schalen en het bekende apparaat {#section-67f734109762457ca62ec306284ea082}
 
-De volgende methodes zijn de gemeenschappelijkere manieren een apparaat als bekend apparaat kwalificeert. Gezien deze methodes, zullen de [!DNL Device Co-op] leden bijna altijd minstens 1 gekend apparaat hebben. Dit steunt het doel om maximumschaal aan alle leden van het te verstrekken [!DNL Device Co-op].
+De volgende methoden zijn de meer algemene manieren waarop een apparaat als een bekend apparaat wordt gekwalificeerd. Gezien deze methodes, zullen de [!DNL Device Co-op] leden bijna altijd minstens 1 gekende apparaat hebben. Dit steunt het doel van het verstrekken van maximumschaal aan alle leden van het [!DNL Device Co-op].
 
 **Organisch**
 
-* Van het bezoek van een klant aan uw plaats of door uw app te gebruiken. Dit is kwalificatie van gegevens van de eerste partij.
-* Door klanten aan boord te nemen van een CRM-systeem.
+* Van het bezoek van een klant aan uw site of met uw app. Dit is kwalificatie van gegevens van de eerste partij.
+* Door instapkaartklanten van een CRM-systeem.
 
 **Marketplace**
 
-* Het kopen segmentgegevens van de Markt van het Publiek.
-* Van het kopen van gegevens van een derde gegevensleverancier.
+* Segmentgegevens aanschaffen van Audience Marketplace.
+* Gegevens van een externe gegevensaanbieder aanschaffen.
 
 **Reclame**
 
-Door een object te winnen in een veiling en een advertentie naar een apparaat te sturen. Het apparaat wordt een bekend apparaat als die advertentie een [!DNL Audience Manager] pixel bevat.
+Door een voorraad te winnen bij een veiling en een advertentie te sturen naar een apparaat. Het apparaat wordt een bekend apparaat als die advertentie een [!DNL Audience Manager] pixel bevat.
 
-## Bekende apparaten en kerkelijke gebruiksscenario&#39;s {#section-0543188729d845d6b95db70b8b25e9f8}
+## Bekende apparatuur en gevallen van billijk gebruik {#section-0543188729d845d6b95db70b8b25e9f8}
 
-Leden van de [!DNL Device Co-op] groep krijgen links die in verhouding staan tot hun bijdragen aan het [!DNL Device Graph]project. Bedrijven die veel apparaten bijdragen aan de [!DNL Device Graph] ontvang meer links dan leden die slechts een paar bijdragen. Wij zijn van mening dat dit de [!DNL Device Co-op] rechtvaardigheid van alle leden ten goede komt. Laten we eens kijken hoe dit werkt met de hieronder beschreven grote en kleine gebruiksscenario&#39;s.
+Leden van de [!DNL Device Co-op] groep krijgen links die in verhouding staan tot hun bijdragen aan de [!DNL Device Graph]conferentie. Bedrijven die veel apparaten aan het [!DNL Device Graph] systeem bijdragen, ontvangen meer links dan leden die slechts een paar bijdragen. Wij zijn van mening dat dit de [!DNL Device Co-op] rechtvaardigheid van alle leden ten goede komt. Laten we eens kijken hoe dit werkt met de hieronder beschreven gevallen van groot en klein gebruik.
 
-**Merk A: draagtas voor groot gebruik**
+**Merk A: hoofdletters**
 
-In dit voorbeeld, heeft het Merk A 100 plaatsbezoekers elke maand en begint een nieuwe dwars-apparaat, merkcampagne. Voor eenvoud, veronderstel alle bezoekers aan Merk A [!DNL Device Graph] weet verbonden met 1 extra apparaat. Dit betekent dat merk A nog eens 100 apparaten kon bereiken. Bovendien, [!DNL Device Graph] bevat de ongeveer 200 apparaten verbonden samen.
+In dit voorbeeld heeft Brand A elke maand 100 bezoekers van de site en wordt een nieuwe campagne voor verschillende apparaten gestart. Voor het gemak, veronderstel [!DNL Device Graph] weet alle bezoekers aan Merk A met 1 extra apparaat verbonden zijn. Dit betekent dat merk A nog eens 100 apparaten kan bereiken. Bovendien, [!DNL Device Graph] bevat het ongeveer 200 apparaten verbonden samen.
 
 <table id="table_78C38DC522F94BC38C1DB73740C058AC"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Bekende Apparaten/Maand </th> 
-   <th colname="col2" class="entry"> Gekoppelde apparaten die van de Co-op van het Apparaat worden ontvangen </th> 
-   <th colname="col3" class="entry"> Totale Apparaten voor campagne </th> 
+   <th colname="col1" class="entry"> Bekende apparaten/maand </th> 
+   <th colname="col2" class="entry"> Gekoppelde apparaten die zijn ontvangen van Device Co-op </th> 
+   <th colname="col3" class="entry"> Totaal aantal apparaten voor campagne </th> 
   </tr>
  </thead>
  <tbody> 
@@ -83,16 +86,16 @@ In dit voorbeeld, heeft het Merk A 100 plaatsbezoekers elke maand en begint een 
  </tbody> 
 </table>
 
-**Merk B: Draagtas voor klein gebruik**
+**Merk B: Kleine letters voor gebruik**
 
-In dit voorbeeld, heeft het Merk B 100 plaatsbezoekers elke maand en begint een nieuwe dwars-apparaat, merkcampagne. Voor eenvoud, veronderstel alle bezoekers aan Merknaam B [!DNL Device Graph] weet verbonden met 50 extra apparaten. Dit betekent dat merk B 150 apparaten kon bereiken. Bovendien, [!DNL Device Graph] bevat ongeveer 1.000 apparaten verbonden samen.
+In dit voorbeeld heeft Brand B elke maand 100 bezoekers van de site en wordt een nieuwe campagne voor verschillende apparaten gestart. Voor het gemak, veronderstel de [!DNL Device Graph] weet alle bezoekers aan Brand B met 50 extra apparaten verbonden zijn. Dit betekent dat merk B 150 apparaten kon bereiken. Bovendien [!DNL Device Graph] bevat de code ongeveer 1.000 gekoppelde apparaten.
 
 <table id="table_A6C9CCF9C6564A89BA7060E075A8E73C"> 
  <thead> 
   <tr> 
-   <th colname="col1" class="entry"> Bekende Apparaten/Maand </th> 
-   <th colname="col2" class="entry"> Gekoppelde apparaten die van de Co-op van het Apparaat worden ontvangen </th> 
-   <th colname="col3" class="entry"> Totale Apparaten voor campagne </th> 
+   <th colname="col1" class="entry"> Bekende apparaten/maand </th> 
+   <th colname="col2" class="entry"> Gekoppelde apparaten die zijn ontvangen van Device Co-op </th> 
+   <th colname="col3" class="entry"> Totaal aantal apparaten voor campagne </th> 
   </tr>
  </thead>
  <tbody> 
