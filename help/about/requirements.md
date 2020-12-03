@@ -1,26 +1,29 @@
 ---
-description: Uw bedrijf moet aan deze minimumnormen voldoen voordat u de Experience Cloud Device Co-op kunt gaan gebruiken.
-seo-description: Uw bedrijf moet aan deze minimumnormen voldoen voordat u de Experience Cloud Device Co-op kunt gaan gebruiken.
+description: Uw bedrijf moet aan deze minimumnormen voldoen alvorens u de Co-op van het Apparaat van de Experience Cloud kunt beginnen te gebruiken.
+seo-description: Uw bedrijf moet aan deze minimumnormen voldoen alvorens u de Co-op van het Apparaat van de Experience Cloud kunt beginnen te gebruiken.
 seo-title: Lidmaatschapseisen
 title: Lidmaatschapseisen
 uuid: 4295fa4e-1b9e-4323-bb79-48e548ca1167
 translation-type: tm+mt
 source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+workflow-type: tm+mt
+source-wordcount: '460'
+ht-degree: 4%
 
 ---
 
 
 # Lidmaatschapseisen{#membership-requirements}
 
-Uw bedrijf moet aan deze minimumnormen voldoen voordat u de Experience Cloud Device Co-op kunt gaan gebruiken.
+Uw bedrijf moet aan deze minimumnormen voldoen alvorens u de Co-op van het Apparaat van de Experience Cloud kunt beginnen te gebruiken.
 
 ## Vereisten {#section-9cbcee3c7b4e4c49b4c0e2b26aec5fe9}
 
 Praat met je [!DNL Adobe representative to get started]. Als u geen Adobe-vertegenwoordiger hebt, gaat u naar de portal [voor](http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html) Device Co-op-lidmaatschap en vult u het onlineformulier in.
 
-Adobe behoudt zich het recht voor een toekomstig lidmaatschap van een klant voor de Experience Cloud Device Co-op te zeggen als Adobe bepaalt dat de deelname van een toekomstige klant aan de Device Co-op mogelijk (1) in strijd is met de toepasselijke wetgeving; of (2) een materieel risico opleveren voor de beveiliging of werking van Adobe of een van de klanten ervan.
+Adobe behoudt zich het recht voor om een eventueel toekomstig lidmaatschap van een klant aan de Experience Cloud Device Co-op te zeggen indien Adobe bepaalt dat de deelname van een toekomstige klant aan de Device Co-op (1) een schending van een toepasselijk recht kan inhouden; of (2) een wezenlijk risico opleveren voor de veiligheid of de activiteiten van Adobe of een van haar klanten.
 
-## Cloud-vereisten ervaren {#section-76218a50385d43e6b9323e49f598394a}
+## Experience Cloud-eisen {#section-76218a50385d43e6b9323e49f598394a}
 
 U moet voor coop worden toegelaten [!DNL Adobe Experience Cloud] en de volgende oplossingen en de diensten gebruiken om aan deel te nemen.
 
@@ -28,16 +31,16 @@ U moet voor coop worden toegelaten [!DNL Adobe Experience Cloud] en de volgende 
 
 De aanvrager moet ten minste een van de volgende [!DNL Adobe]oplossingen gebruiken:
 
-* [Analyse](http://www.adobe.com/marketing-cloud/web-analytics.html)
+* [Analytics](http://www.adobe.com/marketing-cloud/web-analytics.html)
 * [Audience Manager](http://www.adobe.com/marketing-cloud/data-management-platform.html)
 * [Media optimaliseren](http://www.adobe.com/marketing-cloud/online-advertising-management.html)
-* [Doel](http://www.adobe.com/marketing-cloud/testing-targeting.html)
+* [Target](http://www.adobe.com/marketing-cloud/testing-targeting.html)
 
 **Kerndiensten**
 
-Aanvragers moeten de [Experience Cloud ID Service](https://docs.adobe.com/content/help/en/id-service/using/home.html)implementeren.
+Aanvragers moeten de [Experience Cloud ID-service](https://docs.adobe.com/content/help/nl-NL/id-service/using/home.html)implementeren.
 
-## Vereisten voor Adobe-codebibliotheek {#section-931a3fca1ce54afd90b88ba032e75f05}
+## Vereisten voor de Adobe-codebibliotheek {#section-931a3fca1ce54afd90b88ba032e75f05}
 
 De volgende lijst maakt een lijst van de minimumversies van de codebibliotheken of SDKs die door diverse [!DNL Experience Cloud] oplossingen en de diensten worden gebruikt. Als u om het even welk van deze code gebruikt en aan de Co-op van het Apparaat wilt deelnemen, zorg ervoor u aan deze minimumvereisten voldoet.
 
@@ -64,8 +67,8 @@ De SDK-code moet zijn ingeschakeld voor de [!DNL Experience Cloud] ID-service. S
 
 Gebruik voor elke SDK de juiste `visitorSyncIdentifier` methode die aan uw behoeften voldoet. Zie:
 
-* [Servicemethoden voor Android Experience Cloud ID](https://docs.adobe.com/content/help/en/mobile-services/android/experience-cloud-android/mcvid.html)
-* [iOS Experience Cloud ID Service Methods](https://docs.adobe.com/content/help/en/mobile-services/ios/exp-cloud-ios/mcvid.html)
+* [Methoden van Android Experience Cloud ID-service](https://docs.adobe.com/content/help/en/mobile-services/android/experience-cloud-android/mcvid.html)
+* [iOS Experience Cloud ID-servicemethoden](https://docs.adobe.com/content/help/en/mobile-services/ios/exp-cloud-ios/mcvid.html)
 
 **VisitorAPI.js**
 
