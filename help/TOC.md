@@ -16,10 +16,10 @@ ht-degree: 1%
 # Apparaatcoopgids {#using}
 
 + [Adobe Experience Cloud Device Co-op Documentation](home.md)
-+ Over de interface van het apparaat {#about}
++ Informatie over de interface {#about} van het apparaat
    + [Overzicht](about/overview.md)
    + [Lidmaatschapseisen](about/requirements.md)
-+ Over de apparaatgrafiek {#device-graph}
++ Informatie over de apparaatgrafiek {#device-graph}
    + [Overzicht apparaatgrafiek](processes/device-graph-overview.md)
    + [Deterministische en probabilistische banden](processes/links.md)
    + [Delen van koppelingen in de apparaatgrafiek](processes/link-sharing.md)
