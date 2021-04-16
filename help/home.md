@@ -1,21 +1,19 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Adobe Experience Cloud Device Co-op Documentation
+description: Adobe Experience Cloud Device Co-op Documentation
 title: Adobe Experience Cloud Device Co-op Documentation
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
+exl-id: 6fab66de-127c-4267-9e55-4e3b74881b10
 translation-type: tm+mt
-source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+source-git-commit: bbb8feec60964862a58af354e2678509537e2cc5
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 39%
+source-wordcount: '146'
+ht-degree: 38%
 
 ---
 
-
 # Adobe Experience Cloud Device Co-op Documentation{#adobe-experience-cloud-device-co-op-documentation}
 
-Het [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is een digitale coöperatie waar deelnemende klanten koppelingsinformatie over apparaten delen. Deze gegevens worden [!DNL Experience Cloud] [!DNL Device Co-op] verwerkt tot apparaatclusters. Deze clusters vertegenwoordigen een groep apparaten die door een onbekende persoon worden gebruikt. De [!DNL Device Co-op] leden delen deze clusters, waardoor ze hun klanten waardevolle en consistente ervaringen op verschillende apparaten kunnen bieden.
+De [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is een digitale coöperatie waar deelnemende klanten koppelingsinformatie over apparaten delen. De [!DNL Experience Cloud] [!DNL Device Co-op] verwerkt deze gegevens naar apparaatclusters. Deze clusters vertegenwoordigen een groep apparaten die door een onbekende persoon worden gebruikt. De [!DNL Device Co-op] deelt deze clusters onder zijn leden, wat hen helpt waardevolle en verenigbare overkoepelende ervaringen aan hun klanten leveren.
 
 <!-- <a id="section_535A849B2BF14221BD78C968CC02732D"></a> -->
 
@@ -31,7 +29,7 @@ Het [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is een digitale coöperati
    <td colname="col2"> <p> <b>Release-opmerkingen</b> </p> 
     <ul id="ul_713F3E9DF0F84FE5981AC63D05948864"> 
      <li id="li_09C1CD15823E4AD7856CE40BE848E03F">Zie de nieuwste <a href="https://docs.adobe.com/content/help/nl-NL/release-notes/experience-cloud/current.html" format="https" scope="external"> Experience Cloud-releaseopmerkingen</a> voor nieuwe functies en oplossingen. </li> 
-     <li id="li_EA594E939ED14D7780178DEA8E1AED64">See the <a href="https://docs.adobe.com/content/help/nl-NL/release-notes/experience-cloud/current.html" format="https" scope="external"> previous release notes links</a> for older announcements. </li> 
+     <li id="li_EA594E939ED14D7780178DEA8E1AED64">Zie <a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html" format="https" scope="external"> vorige versie noteert verbindingen</a> voor oudere aankondigingen. </li> 
     </ul> <p> <b>Experience Cloud-bronnen</b> </p> 
     <ul id="ul_E30EC96BDC624B5591F0470D430B7F41"> 
      <li id="li_F3A5CCFAE0F247CEB41A03CA8E03106B"> <a href="http://www.adobe.com/marketing-cloud.html" scope="external" format="http"> Adobe Experience Cloud</a> </li> 
@@ -46,4 +44,3 @@ Het [!DNL Adobe Experience Cloud] [!DNL Device Co-op] is een digitale coöperati
 <p><b>Announcements</b> </p>
 <p>Take a moment to review the <a href="about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43" format="dita" scope="local"> membership requirements</a> or <a href="https://marketing-stage.adobe.com/resources/help/en_US/mcdc/downloads/what_to_expect.pdf" format="https" scope="external"> download the information sheet</a> if you want participate or to learn more about the <span class="wintitle"> Device Co-op</span>. </p>
 -->
-
