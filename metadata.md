@@ -2,7 +2,7 @@
 cloud: Experience Cloud
 product: core-services
 solution: Experience Cloud Services
-type: Documentatie
+type: Documentation
 solution-title: Informatie en ondersteuning
 solution-hub-url: https://helpx.adobe.com/support/experience-cloud/core-services.html
 solution-icon: help/interface/assets/experience-cloud-logo-24.png
