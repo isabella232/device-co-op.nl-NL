@@ -3,9 +3,9 @@ keywords: adobe Experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Veelgestelde vragen over einde levensduur van apparaat
 description: Meer informatie over de end-of-life plannen voor de Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 952fe1bc73efd99812f3f2950b009ff8dcd83ae1
+source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
 workflow-type: tm+mt
-source-wordcount: '1053'
+source-wordcount: '1079'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ Vanaf 11 juni 2021 wordt Adobe niet langer verlengd [!DNL Device Co-op] contract
 
 ## Wat is de exacte einddatum van de [!DNL Device Co-op] programma?
 
-De [!DNL Device Co-op] het programma loopt af in 2022 . De specifieke timing en datum zijn afhankelijk van wanneer [!DNL Google] wordt gestart cookies van derden te blokkeren.
+De [!DNL Device Co-op] het programma loopt af in 2022 . De specifieke timing en datum zijn afhankelijk van wanneer [!DNL Google] wordt gestart cookies van derden te blokkeren. De ontmantelingswerkzaamheden zullen naar verwachting in september 2022 van start gaan.
 
 ## Welke toepassingen zullen door het einde van leven van de Co-op van het Apparaat worden beïnvloed?
 
@@ -59,7 +59,7 @@ U kunt de [!DNL Analytics] [Cross-Device Analytics (CDA)](https://experienceleag
 
 ### [!DNL Audience Manager]
 
-[!DNL Audience Manager] onderhoudt integratie met partners van de derdegrafiek van het apparatengrafiek met inbegrip van [!DNL LiveRamp] en [!DNL Tapad], hoewel u direct commerciële relaties met grafiekpartners moet aangaan, om van hefboomwerking te kunnen profiteren [!DNL Audience Manager].
+[!DNL Audience Manager] onderhoudt integratie met partners van de derdegrafiek van het apparatengrafiek met inbegrip van [!DNL LiveRamp] en [!DNL Tapad], hoewel u direct commerciële relaties met grafiekpartners moet aangaan, om van hefboomwerking te kunnen profiteren [!DNL Audience Manager]. Van alle klanten wordt verwacht dat zij om het even welke regels van de Fusie van het Profiel van de Co-op bijwerken om het even welke opties buiten te gebruiken [!DNL Device Co-op.]
 
 ### [!DNL Real-time Customer Data Platform]
 
