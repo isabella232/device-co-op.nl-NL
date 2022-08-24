@@ -3,9 +3,9 @@ keywords: adobe Experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Veelgestelde vragen over einde levensduur van apparaat
 description: Meer informatie over de end-of-life plannen voor de Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
+source-git-commit: 6cb8efa9090d414e1f75c78d40d1c684d04342f9
 workflow-type: tm+mt
-source-wordcount: '1079'
+source-wordcount: '1106'
 ht-degree: 1%
 
 ---
@@ -13,6 +13,8 @@ ht-degree: 1%
 # Veelgestelde vragen over einde levensduur van apparaat
 
 In dit document worden antwoorden gegeven op veelgestelde vragen over het einde van de levensduur van Adobe Experience Cloud Device Co-op (EOL). Wanneer dit plan in werking treedt, zal Adobe een vooruitgeschoven bericht verstrekken in [Opmerkingen bij de release Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html) en de [Update voor prioritaire producten](https://www.adobe.com/subscription/priority-product-update.html).
+
+Device Co-op was een programma waarmee deelnemers kunnen samenwerken om consumenten beter te identificeren op digitale aanraakpunten en tegelijk het hoogste niveau van privacy en transparantie te garanderen.
 
 ## Veelgestelde vragen
 
@@ -75,7 +77,7 @@ Er zijn momenteel geen alternatieven beschikbaar voor [!DNL Target] omdat [!DNL 
 
 ### Adobe Advertising Cloud
 
-[!DNL Advertising Cloud] klanten kunnen niet meer [!DNL Device Co-op] voor doelgroepen voor verschillende apparaten en metingen. Met [!DNL Advertising Cloud], kunt u Adobe nog steeds gebruiken [!DNL Device Graph] partnerschap met [!DNL LiveRamp] deze functies te blijven uitoefenen, voor zover [!DNL LiveRamp’s] vermogen en schaal. U moet uw campagnes toestaan die gebruiken [!DNL Device Co-op] om te beëindigen, en dan of schakelaar aan [!DNL LiveRamp] Apparaatgrafiekprovider, of maakt geen gebruik meer van op mensen gebaseerde doelwitten.
+[!DNL Advertising Cloud] klanten kunnen niet meer [!DNL Device Co-op] voor doelgroepen voor verschillende apparaten en metingen. Met [!DNL Advertising Cloud], kunt u Adobe nog steeds gebruiken [!DNL Device Graph] partnerschap met [!DNL LiveRamp] deze functies te blijven uitoefenen, voor zover [!DNL LiveRamp's] vermogen en schaal. U moet uw campagnes toestaan die gebruiken [!DNL Device Co-op] om te beëindigen, en dan of schakelaar aan [!DNL LiveRamp] Apparaatgrafiekprovider, of maakt geen gebruik meer van op mensen gebaseerde doelwitten.
 
 ## Welke bestaande mogelijkheden en implementaties kunnen mijn voorbereiding op een toekomst zonder cookie helpen?
 
